@@ -1,0 +1,2 @@
+# powershell
+personal powershell profile
